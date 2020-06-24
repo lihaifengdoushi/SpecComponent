@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		F312EB6324A302EF00816F9A /* NewViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = F312EB6224A302EF00816F9A /* NewViewController.m */; };
 		F32F629B22FFB65100150AE7 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = F32F629A22FFB65100150AE7 /* AppDelegate.m */; };
 		F32F629E22FFB65100150AE7 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = F32F629D22FFB65100150AE7 /* ViewController.m */; };
 		F32F62A122FFB65100150AE7 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F32F629F22FFB65100150AE7 /* Main.storyboard */; };
@@ -36,6 +37,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		F312EB6124A302EF00816F9A /* NewViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = NewViewController.h; sourceTree = "<group>"; };
+		F312EB6224A302EF00816F9A /* NewViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = NewViewController.m; sourceTree = "<group>"; };
 		F32F629622FFB65100150AE7 /* SpecComponent.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SpecComponent.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		F32F629922FFB65100150AE7 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		F32F629A22FFB65100150AE7 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
@@ -110,6 +113,8 @@
 				F32F629D22FFB65100150AE7 /* ViewController.m */,
 				F32F62CB22FFB6D800150AE7 /* TestViewController.h */,
 				F32F62CC22FFB6D800150AE7 /* TestViewController.m */,
+				F312EB6124A302EF00816F9A /* NewViewController.h */,
+				F312EB6224A302EF00816F9A /* NewViewController.m */,
 				F32F629F22FFB65100150AE7 /* Main.storyboard */,
 				F32F62A222FFB65200150AE7 /* Assets.xcassets */,
 				F32F62A422FFB65200150AE7 /* LaunchScreen.storyboard */,
@@ -272,6 +277,7 @@
 			files = (
 				F32F629E22FFB65100150AE7 /* ViewController.m in Sources */,
 				F32F62A922FFB65200150AE7 /* main.m in Sources */,
+				F312EB6324A302EF00816F9A /* NewViewController.m in Sources */,
 				F32F62CD22FFB6D800150AE7 /* TestViewController.m in Sources */,
 				F32F629B22FFB65100150AE7 /* AppDelegate.m in Sources */,
 			);
